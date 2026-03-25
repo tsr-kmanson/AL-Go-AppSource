@@ -1,6 +1,7 @@
 {
-  "$schema": "https://raw.githubusercontent.com/tsr-kmanson/AL-Go/Actions/dc3e26be0e944a133933216cae88cf8f86263a28/.Modules/settings.schema.json",
-  "country": "us",
+  "$schema": "https://raw.githubusercontent.com/tsr-kmanson/AL-Go/Actions/58da0c3bdceaae74ea0a6ea49f3a0bddfad24586/.Modules/settings.schema.json",
+  "country": "w1",
+  "additionalCountries": [ "de", "fr", "us" ],
   "appSourceCopMandatoryAffixes": [
     "<affix>"
   ],
